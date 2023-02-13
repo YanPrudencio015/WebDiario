@@ -1,0 +1,2 @@
+# WebDiario
+ O propósito desse diário é ser um diário. Uso simples do font end para criar os comando para o usuário com Bootstrap. O foco principal é o uso do Node JS, o objetivo é pegar a requisição do usuário, que no caso é o relato do seu dia e imprimir em um container onde fica registrado a data, o título, o texto e um ensinamento que a situação do dia lhe proporcionou. O foco também é fazer a interação entre o front e o back end de forma prática e simples 
